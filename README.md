@@ -9,6 +9,7 @@
 - 📫 Contact me at: sanchezgarciad485@gmail.com.
 
 🌐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/your-profile](https://www.linkedin.com/in/daniel-s%C3%A1nchez-garc%C3%ADa-8a93a7283/))
 
 🛠️ Skills:
